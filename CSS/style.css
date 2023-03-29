@@ -9,7 +9,7 @@ html{
 }
 /* -------------------- navbar CSS -------------------*/
 .navbar{
-    padding: 5px;
+    padding-top: 7px;
     background-color: black;
     position:fixed;
     top: 0;
